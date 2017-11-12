@@ -16,6 +16,3 @@ Questo è uno spazio collaborativo per costruire e alimentare un _toolkit_ civic
 * fare una richiesta FOIA;
 * trasformare in dati le tabelle contenute in un PDF;
 * ...
-
-
-
