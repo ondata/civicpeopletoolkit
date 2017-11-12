@@ -14,7 +14,7 @@ Il _geocoding_ è la trasformazione di una stringa (`Via Libertà 92, Palermo`) 
 
 # Perché è utile
 
-Molto spesso si hanno a disposizione elenchi di indirizzi, dei dati riferibili a dei luoghi, che non si possono usare per essere trasformati subito ad esempio in una mappa.
+Molto spesso si hanno a disposizione elenchi di indirizzi. Sono dati quindi riferibili a dei luoghi, ma che non si possono usare per creare subito una mappa.
 
 Come ad esempio i dati sottostanti, relativi ad alcuni beni immobili sequestrati alle mafie in Sardegna.
 
