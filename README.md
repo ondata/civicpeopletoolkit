@@ -8,3 +8,4 @@ Questa è uno spazio collaborativo per creare un _toolkit_ civico tecnologico, p
 - Trasformare una scansione di un testo, in un file ricercabile;
 - Creare una mappa da una coppia di coordinate;
 - Fare una richiesta FOIA;
+- ...
