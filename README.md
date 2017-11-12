@@ -10,9 +10,12 @@ Questo è uno spazio collaborativo per costruire e alimentare un _toolkit_ civic
 
 # Ricette
 
-- [Convertire elenchi di indirizzi in coppie di coordinate](./ricette/geocoding.md);
-- trasformare una scansione di un testo, in un file ricercabile;
-- creare una mappa da una coppia di coordinate;
-- fare una richiesta FOIA;
-- trasformare in dati le tabelle contenute in un PDF;
-- ...
+* [Convertire elenchi di indirizzi in coppie di coordinate](./ricette/geocoding.md);
+* trasformare una scansione di un testo, in un file ricercabile;
+* creare una mappa da una coppia di coordinate;
+* fare una richiesta FOIA;
+* trasformare in dati le tabelle contenute in un PDF;
+* ...
+
+
+
