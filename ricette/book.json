@@ -1,0 +1,17 @@
+{
+    "language": "it",
+    "title": "Civic people toolkit",
+    "author": "Associazione onData",
+    "direction": "ltr",
+    "pdf.paperSize": "a4",
+    "plugins" : [ 
+        "anchors",
+        "edit-link"],
+        "pluginsConfig": {
+            "edit-link": {
+                "base": "https://github.com/ondata/civicpeopletoolkit/tree/master",
+                "label": "su GitHub"
+            }
+        }
+    }
+    
