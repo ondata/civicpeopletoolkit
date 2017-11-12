@@ -44,4 +44,5 @@ Nel video sottostante è illustra la procedura:
 ### Note e riferimenti
 
 - il _geocoding_ di Nominatim è basato sul database di [**OpenStreetMap**](https://www.openstreetmap.org/#map=19/38.12672/13.29924), quindi i risultati non saranno soddisfacenti in quei luoghi per cui in OSM ci sono pochi dati o di scarsa qualità;
-- [qui](https://operations.osmfoundation.org/policies/nominatim/) le linee di condotta sull'utilizzo delle API
+- [qui](https://operations.osmfoundation.org/policies/nominatim/) le linee di condotta sull'utilizzo delle API;
+- ai dati di output si applica la licenza di [OpenStreetMap](http://www.openstreetmap.org/copyright).
