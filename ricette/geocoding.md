@@ -32,7 +32,7 @@ Come ad esempio i dati sottostanti, relativi ad alcuni beni immobili sequestrati
 
 [**OpenRefine**](../tools/openrefine.md) è uno strumento classico per "fare cose" con i dati e le [**API di Nominatim**](http://wiki.openstreetmap.org/wiki/Nominatim) sono uno dei servizi con cui è possibile fare il _geocoding_ di un indirizzo.
 
-Nel video sottostante è illustra la procedura:
+Nel video sottostante è illustrata la procedura:
 
 - si crea un progetto in OpenRefine importando la tabella che contiene gli indirizzi ([qui](./data/immobiliOpenRegioSardegna.csv) il file usato nel video);
 - si aggiunge una colonna che verrà usata per fare il _geocoding_, in modo che il dato di input contenga sia l'indirizzo, che il comune di riferimento (altrimenti il _geocoding_ sarebbe impossibile), con la formula `value + ', ' + cells["comune"].value + ', Italia'`
