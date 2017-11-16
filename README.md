@@ -10,6 +10,8 @@ Questo è uno spazio collaborativo per costruire e alimentare un _toolkit_ civic
 
 ... scrivere
 
+Per proporre/richiedere l'aggiunta di una nuova ricetta, fai click [qui](https://github.com/ondata/civicpeopletoolkit/issues/new?labels=nuova+ricetta&title=inserisci+un+titolo&body=Descrivi%20la%20ricetta) e compila il form per la richiesta.
+
 # Ricette
 
 * [Convertire elenchi di indirizzi in coppie di coordinate](./ricette/geocoding.md);
