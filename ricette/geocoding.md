@@ -36,7 +36,7 @@ Come ad esempio i dati sottostanti, relativi ad alcuni beni immobili sequestrati
 
 Nel video sottostante è illustrata la procedura:
 
-- si crea un progetto in OpenRefine importando la tabella che contiene gli [indirizzi](/ricette/data/immobiliOpenRegioSardegna.csv) ([qui](./data/immobiliOpenRegioSardegna.csv) il file usato nel video);
+- si crea un progetto in OpenRefine importando la tabella che contiene gli indirizzi ([qui](./data/immobiliOpenRegioSardegna.csv) il file usato nel video);
 - si aggiunge una colonna che verrà usata per fare il _geocoding_ (**si deve chiamare "2geocode"**), in modo che il dato di input contenga sia l'indirizzo, che il comune di riferimento (altrimenti il _geocoding_ sarebbe impossibile), con la formula `value + ', ' + cells["comune"].value + ', Italia'`
 - si lancia la procedura di _geocoding_ usando delle [istruzioni](https://github.com/aborruso/geocode_openrefine/blob/master/Nominatim/open_refine_nominatim.json) scritte da [**Andrea Zedda**](https://twitter.com/andria_tzedda);
 - si esporta l'output come foglio elettronico.
