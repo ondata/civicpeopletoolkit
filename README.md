@@ -15,10 +15,7 @@ Per proporre/richiedere l'aggiunta di una nuova ricetta, fai click [qui](https:/
 # Ricette
 
 * [Convertire elenchi di indirizzi in coppie di coordinate](./ricette/geocoding.md);
-* trasformare una scansione di un testo, in un file ricercabile;
-* creare una mappa da una coppia di coordinate;
-* fare una richiesta FOIA;
-* trasformare in dati le tabelle contenute in un PDF;
+* [Inserire la data e l'ora in un'immagine partendo dal nome del file](./ricette/inserire_metadati_exif.md)
 * ...
 
 [![License: CC BY-SA 4.0](https://licensebuttons.net/l/by-sa/4.0/80x15.png)](https://creativecommons.org/licenses/by-sa/4.0/)
